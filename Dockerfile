@@ -1,4 +1,4 @@
-FROM ruby:2.4.3-jessie
+FROM ruby:2.3.6-jessie
 MAINTAINER Danil Karpov <ushiromia@gmail.com>
 
 RUN apt-get update
